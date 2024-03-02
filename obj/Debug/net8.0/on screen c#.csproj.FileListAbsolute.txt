@@ -1,0 +1,14 @@
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\bin\Debug\net8.0\on screen c#.exe
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\bin\Debug\net8.0\on screen c#.deps.json
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\bin\Debug\net8.0\on screen c#.runtimeconfig.json
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\bin\Debug\net8.0\on screen c#.dll
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\bin\Debug\net8.0\on screen c#.pdb
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\on screen c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\on screen c#.AssemblyInfoInputs.cache
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\on screen c#.AssemblyInfo.cs
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\on screen c#.csproj.CoreCompileInputs.cache
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\on screen c#.dll
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\refint\on screen c#.dll
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\on screen c#.pdb
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\on screen c#.genruntimeconfig.cache
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\ref\on screen c#.dll
