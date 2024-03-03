@@ -12,3 +12,4 @@ C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\refint\o
 C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\on screen c#.pdb
 C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\on screen c#.genruntimeconfig.cache
 C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\ref\on screen c#.dll
+C:\Users\madra\OneDrive\Área de Trabalho\on screen c#\obj\Debug\net8.0\on screen c#.sourcelink.json
